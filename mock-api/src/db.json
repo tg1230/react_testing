@@ -1,0 +1,14 @@
+{
+  "documents": [
+    {
+      "name": "img1.jpg",
+      "URL": "http://example.com/img1.jpg",
+      "id": 1
+    },
+    {
+      "name": "img2.jpg",
+      "URL": "http://example.com/img2.jpg",
+      "id": 1
+    }
+  ]
+}

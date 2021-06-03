@@ -1,0 +1,42 @@
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.docs_header {
+  flex: 40%;
+  margin: 20px;
+  width: 300px;
+}
+
+.docs_col {
+  flex: 40%;
+  margin: 20px;
+  overflow: hidden;
+  height: 400px;
+  width: 500px;
+}
+
+.docs_border {
+  border: 3px;
+  border-style: solid;
+  text-align: center;
+}
+
+.image {
+  width: 100%;
+}
+
+.bottom-left {
+  position: absolute;
+  bottom: 8px;
+  left: 16px;
+}
+
+.placeholder {
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+}
+
