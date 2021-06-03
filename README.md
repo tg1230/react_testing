@@ -1,7 +1,7 @@
 # Take-home assessment
 
 ## Overview
-I used a mock API to store the uploaded documents. This can be started by navigating to 'TakeHomeTest/mock-api' and running `json-server --watch src/db.json`
+I used a mock API to store the uploaded documents. This can be started by navigating to 'mock-api' and running `json-server --watch src/db.json`
 
 Documents can be searched for by their name. If a document is found, the console will print "Document found!".
 
